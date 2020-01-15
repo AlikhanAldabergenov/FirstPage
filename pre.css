@@ -1,0 +1,23 @@
+body {
+	background-color: #eba834;
+}
+h1 {
+	text-align: center;
+}
+h1:hover {
+	color:green;
+}
+table{
+	background-color: #f55d42;
+}
+td:hover{
+	background-color: #f7755e;
+}
+td{
+	border: 2px solid black;
+	padding: 5px;
+	text-align: center;
+}
+td:hover{
+	border: 2px solid green;
+}
